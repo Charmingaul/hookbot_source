@@ -1,13 +1,4 @@
-# HookBot Android Malware Builder Panel and APK Source 
-This repository contains a few leaked files of HookBot. To ensure it is not used for malicious purposes, certain files have been modified and restricted from execution.
 
-```
-password: infected
-```
-![image](https://github.com/0xperator/hookbot_source/assets/128931853/c486162f-6615-47e3-a94b-612242a6551f)
-
-# File Tree
-```
 ├── hookbot_source
 │   ├── builder_panel
 │   │   ├── assets
@@ -106,6 +97,3 @@ password: infected
 │                           ├── res_notes.txt
 │                           └── serviceconfig.xml
 ```
-
-* This repository is NOT meant for actual use or implementation. Intentionally using, distributing, or modifying malware is illegal and unethical.
-* The owner and contributors of this repository disclaim any liability or responsibility for any misuse, harm, or legal repercussions resulting from any attempts to use or distribute any form of malware.
